@@ -15,9 +15,9 @@
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royrohan1437&theme=dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royrohan1437&theme=dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=royrohan1437&theme=dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=royrohan1437&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royrohan1437&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=royrohan1437&theme=dark)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/royrohan1437?cardType=octocat&theme=city-lights&fontFamily=Itim&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=royrohan1437&icon=0&color=0)](https://visitcount.itsvg.in)
